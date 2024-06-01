@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e8639d4-dca0-4447-85cc-6b623467023c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/CardWithDeliveryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/CardWithDiliveryTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_directory_selection": "C:/Users/angel/Desktop/API_CI/project/src/test/java",
+    "last_directory_selection": "C:/Users/angel/Desktop/API_CI/project/src/test/java/ru/netology",
     "last_opened_file_path": "C:/Users/angel/Desktop/API_CI/project/artifacts"
   }
 }]]></component>
